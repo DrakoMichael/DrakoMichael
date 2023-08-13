@@ -48,7 +48,9 @@
 
 <br clear="both">
 
-<a href="https://drakomichael.github.io/fiatmarea/" target="_blank" ><img align="left" height="200" src="https://i.imgur.com/bJn1oWX.png"  /></a>
+<a href="https://drakomichael.github.io/fiatmarea/" target="_blank">
+<img align="left" height="200" src="https://i.imgur.com/bJn1oWX.png"/> 
+</a>
 
 ###
 
