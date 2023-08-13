@@ -56,6 +56,6 @@
 
 ###
 
-<p align="left">A simple website, using HTML5 and CSS. The goal is to learn and put into practice web development, using the actual restoration of my car as a reference.<br><br>Um site simples, usando HTML5 e CSS. O objetivo é aprender e colocar em prática o desenvolvimento web, tendo como referência a restauração real do meu carro.</p>
+<p align="left">A simple website, using HTML5 and CSS. The goal is to learn and put into practice web development, using the actual restoration of my car as a reference. All website data is real and will be updated over time.</p>
 
 ###
