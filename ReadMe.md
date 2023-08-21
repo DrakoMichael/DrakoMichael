@@ -39,21 +39,3 @@
 </div>
 
 ###
-
-<h1 align="left">My best recents projects:</h1>
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://i.imgur.com/bJn1oWX.png"  />
-
-###
-
-<h2 align="left">Project Fiat Marea</h2>
-
-###
-
-<p align="left">A simple website, using HTML5 and CSS. The goal is to learn and put into practice web development, using the actual restoration of my car as a reference. All website data is real and will be updated over time.</p>
-
-###
