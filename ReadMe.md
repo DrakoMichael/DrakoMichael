@@ -1,7 +1,3 @@
-<h3 align="left">Hi👋! I'm Michael... I'm a beginner developer, student of systems analysis and development, for more information visit my LinkedIn!</h3>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -29,11 +25,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrakoMichael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="220" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DrakoMichael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DrakoMichael&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DrakoMichael&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/michaelksilva/" target="_blank">
@@ -41,5 +39,11 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="39" alt="gmail logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Hi👋! I'm Michael... I'm a beginner freelancer web developer, student of systems analysis and development, for more information visit my LinkedIn!</h3>
 
 ###
