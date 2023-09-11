@@ -26,7 +26,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DrakoMichael&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="183" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DrakoMichael&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DrakoMichael&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="184" alt="languages graph"  />
 </div>
 
 ###
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<h3 align="left">Hi👋! I'm Michael... I'm a beginner freelancer web developer, student of systems analysis and development, for more information visit my <a href="https://www.linkedin.com/in/michaelksilva"/></a>LinkedIn</h3<a>!</h3>
+<h3 align="left">Hi👋! I'm Michael... I'm a beginner freelancer web developer, student of systems analysis and development, for more information visit my LinkedIn!</h3>
 
 ###
