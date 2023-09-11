@@ -20,14 +20,12 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="400" src="https://i.imgur.com/LXbjdlZ.png"  />
+<img align="right" height="399" src="https://i.imgur.com/LXbjdlZ.png"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrakoMichael&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="209" alt="stats graph" /> <br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrakoMichael&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="209" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DrakoMichael&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
@@ -35,7 +33,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="right">
   <a href="https://www.linkedin.com/in/michaelksilva/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="39" alt="linkedin logo"  />
   </a>
