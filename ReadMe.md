@@ -20,6 +20,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="400" src="https://i.imgur.com/LXbjdlZ.png"  />
 
 ###
