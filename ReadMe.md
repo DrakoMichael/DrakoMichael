@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<h3 align="left">Hi👋! I'm Michael... I'm a beginner freelancer web developer, student of systems analysis and development, for more information visit my LinkedIn!</h3>
+<h3 align="left">Hi👋! I'm Michael... I'm a beginner freelancer web developer, student of systems analysis and development, for more information visit my <a href="https://www.linkedin.com/in/michaelksilva"/></a>LinkedIn</h3<a>!</h3>
 
 ###
