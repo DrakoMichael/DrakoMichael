@@ -1,31 +1,31 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="55" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="55" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ps" height="55" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=pr" height="55" alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="45" alt="adobepremierepro logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="55" alt="codeigniter logo"  />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="45" alt="codeigniter logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="55" alt="laravel logo"  />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
 </div>
 
 ###
