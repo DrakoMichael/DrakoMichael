@@ -31,7 +31,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
 </div>
-###
+
 
 <img align="right" height="399" src="https://i.imgur.com/LXbjdlZ.png"  />
 
