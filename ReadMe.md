@@ -1,4 +1,4 @@
-<h5 align="center">Technologies I know or am studying:</h5>
+<p align="center">Technologies I know or am studying:</p>
 
 ###
 
