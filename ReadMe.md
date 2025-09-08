@@ -10,6 +10,10 @@
 
 ###
 
+<p align="center">...</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="15" />
@@ -36,9 +40,13 @@
 
 ###
 
+<p align="center">...</p>
+
+###
+
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/michaelmellosilva/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
   </a>
