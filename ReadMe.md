@@ -14,6 +14,10 @@
 
 ###
 
+<h6 align="center">what i know and use:</h6>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="15" />
@@ -40,7 +44,9 @@
 
 ###
 
-<p align="center">...</p>
+<br clear="both">
+
+<p align="left">contact me in</p>
 
 ###
 
