@@ -28,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="rigth">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=drakomichael&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
