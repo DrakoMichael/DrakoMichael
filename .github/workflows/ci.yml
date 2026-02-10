@@ -15,14 +15,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: First interaction message
-        uses: actions/first-interaction@v1.3.0
+      - name: Comment on issue
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: |
-            👋 Olá
-          pr-message: |
-            🚀 Primeiro PR! Muito bom ter você contribuindo.
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "👋 Olá"
+            })
 
       - name: Close issue automatically
         if: github.event_name == 'issues'
@@ -34,4 +37,16 @@ jobs:
               repo: context.repo.repo,
               issue_number: context.issue.number,
               state: 'closed'
+            })
+
+      - name: Comment on PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "🚀 Primeiro PR! Muito bom ter você contribuindo."
             })
